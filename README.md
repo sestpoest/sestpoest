@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='100'>](https://github.com/sestpoest)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='100' height='100'></a> 
 
 
 
